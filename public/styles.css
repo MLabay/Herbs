@@ -1,0 +1,24 @@
+.table {
+    color: rgb(86, 139, 65);
+    offset: 25%;
+}
+
+.subButton{
+    padding: 15px 32px;
+    
+}input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(228, 211, 199);
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
